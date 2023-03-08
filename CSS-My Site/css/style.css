@@ -1,0 +1,225 @@
+body
+{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 0;
+    /* font-family: 'Rampart One', cursive; */
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Source Code Pro', monospace;
+    
+    
+    
+   
+}
+
+h1
+{
+    /* agar width lagaya to vo apne ap se    jo center wala tag tha body ka usko hata diya 
+    or apna width set kar liya to ye ek dam left me chale jaega to isko sahi karne ke liye 
+    ham use karenge margin  */
+    /* width: 10pc;
+    margin: 0 auto 0 auto; */
+    margin-top: 50px;
+    font-family: 'Rampart One', cursive;
+    margin-bottom: auto;
+    color: #40513B;
+    font-weight: bold;
+    line-height: 2;
+   
+
+}
+.h222
+{
+    font-size: 2.5rem;
+    margin-top: 0px;
+    
+}
+h2
+{
+    /* font-family: 'Gloock', serif; */
+    font-family: 'Rampart One', cursive;
+    color: #40513B;
+    margin: 25px auto 25px auto ;
+   
+}
+h3
+{
+    
+    font-family: 'Rampart One', cursive;
+    color: #609966;
+    margin: 25px auto 25px auto ;
+
+   
+}
+.top-container{
+    background-color: #9DC08B;
+    margin-top: 0;
+    position: relative;
+    padding-top: 100px;
+
+    
+}
+.ppick
+{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    
+    text-align: center;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+   
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.sr1
+{
+    margin-right: 25px;
+    float: left;
+   
+}
+.sr2
+{
+    margin-left:25px;
+    float: right;
+}
+hr
+{
+    margin: 50px auto 50px auto ;
+    width: 70px;
+    border-top: dotted;
+    border-width: 8px 0 0 0 ;
+    color: grey;
+    
+    
+}
+.skills
+{
+    text-align: center;
+    
+    
+}
+.main
+{
+    margin: auto 32% ;
+    padding: 50px 0 50px;
+    line-height: 2;
+}
+.contact-me
+{
+    
+    line-height: 2;
+    
+}
+.btn {
+    background: #80bfab;
+    background-image: -webkit-linear-gradient(top, #80bfab, #3a8053);
+    background-image: -moz-linear-gradient(top, #80bfab, #3a8053);
+    background-image: -ms-linear-gradient(top, #80bfab, #3a8053);
+    background-image: -o-linear-gradient(top, #80bfab, #3a8053);
+    background-image: linear-gradient(to bottom, #80bfab, #3a8053);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Georgia;
+    color: #eff2f1;
+    font-size: 21px;
+    padding: 11px 20px 10px 20px;
+    text-decoration: none;
+    
+   
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .end
+  {
+    
+    color: white;
+    margin: 100px auto 0 0;
+    background-color:#609966;
+    padding: 30px 0 16px 0;
+  }
+  a
+  {
+    margin: 0 10px 0 20px;
+    font-family: 'Gloock', serif;
+    text-decoration: none;
+    color:#063115;
+
+
+  }
+  a:hover
+  {
+    color: #80bfab;
+  }
+  h5{
+    margin: 25px 0 0 0 ;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* /* display : none ;       use to hide the data
+visibility : hidden ;  use to hide the data (like anser in quize but have  space )
+
+
+display ; inline; width change nahi kar skte he :
+display - block ;
+display ; inline_block ; width change kar skte he  */
